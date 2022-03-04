@@ -51,3 +51,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 #2 Styled Component
 1.npm i styled-components
 \*npm install @types/styled-components
+
+#3 Others
+1.npm i react-router-dom
+2.npm i react-query
