@@ -52,6 +52,8 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 1.npm i styled-components
 \*npm install @types/styled-components
 
-#3 Others
+#3 React-router-dom & React-query
 1.npm i react-router-dom
+react-router-dom ver < 6.0
+npm i --save-dev @types/react-router-dom
 2.npm i react-query
